@@ -26,17 +26,3 @@ This repository contains laboratory assignments and implementations for the **EE
 - Real-time audio processing with filtering
 - Comprehensive lab reports with theoretical analysis
 
-## File Structure
-```
-├── LAB1/          # Frequency analysis and harmonics
-├── LAB2/          # Convolution operations
-├── LAB3/          # Deconvolution techniques
-├── LAB4/          # Fourier Series analysis
-├── LAB5/          # Advanced FS applications
-└── LAB6/          # DTFT and digital filtering
-```
-
-Each lab directory contains MATLAB scripts, generated audio files, lab reports, and supporting documentation.
-
-## Usage
-Run the MATLAB scripts in each lab directory to reproduce the experiments and visualizations. Audio outputs can be played using MATLAB's `soundsc()` function.
